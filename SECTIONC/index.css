@@ -11,6 +11,7 @@ body{background-color: aquamarine;
 }
 nav{
     background-color: orangered;
-    height: 20px;
-    width: 10cm;
+    height: 40px;
+    width: 50cm;
+    word-spacing: 80px;
 }
