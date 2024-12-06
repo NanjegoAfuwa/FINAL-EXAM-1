@@ -22,15 +22,16 @@
   color: #fff;
   transition: color 0.2s ease;
   height: 50px;
+  border-radius: 50%;
 }
 
-.icon-link:hover {
-  color: #ccc;
-}
 
 .copyright-text {
   font-size: 16px;
   color: #fff;
   margin-top: 20px;
+}
+body{
+  background-color: rgb(152, 207, 207);
 }
 
