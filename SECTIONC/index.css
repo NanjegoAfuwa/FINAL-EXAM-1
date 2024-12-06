@@ -1,5 +1,5 @@
 body{background-color: aquamarine;
- margin-left: 400px;}
+ }
 
 .p{
     word-spacing: 20px;
@@ -11,7 +11,17 @@ body{background-color: aquamarine;
 }
 nav{
     background-color: orangered;
-    height: 40px;
-    width: 50cm;
-    word-spacing: 80px;
+    height: 50px;
+    width: 500px;
+    word-spacing: 20px;
 }
+.container {
+    width: 500px; 
+    height: 800px; 
+    background-color:rgb(35, 231, 205);
+    margin-left:10cm ;
+    text-align: center;
+  }
+.bar{
+    margin-right: none;
+}  
