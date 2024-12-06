@@ -1,0 +1,16 @@
+body{background-color: aquamarine;
+ margin-left: 400px;}
+
+.p{
+    word-spacing: 20px;
+    color: blue;
+}
+.icon{
+    border-radius: 50%;
+    height: 30px;
+}
+nav{
+    background-color: orangered;
+    height: 20px;
+    width: 10cm;
+}

@@ -1,0 +1,14 @@
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+  }
+  
+  .card {
+    background-color: #a67bac;
+    padding: 20px;
+    border: 1px solid #aa5f5f;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  

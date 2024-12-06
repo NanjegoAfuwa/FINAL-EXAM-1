@@ -1,0 +1,9 @@
+.div{
+    font-size: larger;
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 3px;
+}
+body{
+    background-color: azure;
+}

@@ -1,0 +1,9 @@
+.div{
+    font-size: larger;
+    color: rgb(165, 42, 124);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 3px;
+}
+body{
+    background-color: rgb(46, 212, 212);
+}
